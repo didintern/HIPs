@@ -36,7 +36,8 @@ This has two purposes:
 ## Usecases 
  - Encrypted File Storage using ICNS
  - Onchain Email system using ICNS
- - Onchain Notification
+ - Login via ICNS [ https://openid.net/specs/openid-connect-self-issued-v2-1_0.html ]
+ - Onchain Notification [https://identity.foundation/didcomm-messaging/spec/]
  - Delegation
 
 
